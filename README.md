@@ -21,7 +21,7 @@ I developed a Python Project that takes in an image and creates an Ascii art of 
   ```
   ### OR 
   - Download as zip 
-  - open (www.colab.research.google.com) Click on Upload (top right,orange) and the open the IPYNB file
+  - open (https://colab.research.google.com/) Click on Upload (top right,orange) and the open the IPYNB file
   - When the file opens click on Runtime and click run all or ctrl+f9 
   - Type  " Image/img01.jpg" as input 
   - Open Output folder and open notepad file, select all ans set font size - 1
