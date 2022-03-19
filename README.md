@@ -1,10 +1,7 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # ImagetoASCIIpy
 I developed a Python Project that takes in an image and creates an Ascii art of it. Art will get printed into a txt file and on a Tkinter canvas (which is a bit buggy), I'm open to suggestions regarding improvements and other challenges. Idea From YouTube coding Challenge- **The Coding Train** " https://youtu.be/55iwMYv8tGI " 
+
+> Use the ipynb file or Directly run the py file using command prompt
 
 ## Requirements:
   
