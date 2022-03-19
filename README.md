@@ -19,6 +19,7 @@ I developed a Python Project that takes in an image and creates an Ascii art of 
   ```bash
     python IMAGE-ASCII.py
   ```
+  ### OR 
   - Download as zip 
   - open (www.colab.research.google.com) Click on Upload (top right,orange) and the open the IPYNB file
   - When the file opens click on Runtime and click run all or ctrl+f9 
