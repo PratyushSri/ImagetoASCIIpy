@@ -40,6 +40,6 @@ I developed a Python Project that takes in an image and creates an Ascii art of 
 
 - [@PratyushSri](https://www.github.com/PratyushSri)
 
- - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pratyush-srivastava-787a27206)
+ - [![linkedin](www.linkedin.com/in/pratyush-srivastava-787a27206)(https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
 
 
